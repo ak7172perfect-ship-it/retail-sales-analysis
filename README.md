@@ -1,4 +1,4 @@
-# Retail Sales Analysis & ETL Pipeline
+# Retail-Sales-Automation-Pipeline
 
 ## Overview
 
